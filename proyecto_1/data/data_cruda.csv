@@ -1,0 +1,4 @@
+cliente_id,monto,fecha,producto
+123,250.5,2024-12-01,Laptop
+-1,0,no_fecha,
+45,120.0,2024-10-11,Teclado
