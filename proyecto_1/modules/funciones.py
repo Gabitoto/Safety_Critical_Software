@@ -34,7 +34,10 @@ class ETLPipeline:
             except Exception as e:
                 print(f"[TRANSFORM ERROR] Registro descartado: {registro} - {e}")
 
-    @require(lambda registro: isinstance(registro["cliente_id"], int) and registro["cliente_id"] > 0,
+    def es_entero_y_positivo(registro):
+        return isinstance(registro["cliente_id"], int) and registro["cliente_id"] > 0
+
+    @require(lambda registro: ETLPipeline.es_entero_y_positivo(registro),
              "cliente_id inválido")
     @require(lambda registro: registro["monto"] > 0, "monto debe ser mayor a 0")
     @require(lambda registro: isinstance(registro["producto"], str) and len(registro["producto"]) > 0,
