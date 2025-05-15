@@ -243,7 +243,7 @@
             <mxPoint x="290" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qt-ZehDFdgtNPtdeyibi-16" value="id_normativa" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="qt-ZehDFdgtNPtdeyibi-16" value="id_normativa" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qt-ZehDFdgtNPtdeyibi-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qt-ZehDFdgtNPtdeyibi-16" target="O8r9pUgarycGLl7nJGWu-3">
@@ -261,19 +261,19 @@
             <mxPoint x="340" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qt-ZehDFdgtNPtdeyibi-22" value="id_soft_med" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="qt-ZehDFdgtNPtdeyibi-22" value="id_soft_med" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qt-ZehDFdgtNPtdeyibi-23" value="id_soft_esp" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="qt-ZehDFdgtNPtdeyibi-23" value="id_soft_esp" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="860" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qt-ZehDFdgtNPtdeyibi-24" value="id_soft_emp" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="qt-ZehDFdgtNPtdeyibi-24" value="id_soft_emp" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="860" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qt-ZehDFdgtNPtdeyibi-25" value="id_soft_trans" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="qt-ZehDFdgtNPtdeyibi-25" value="id_soft_trans" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qt-ZehDFdgtNPtdeyibi-26" value="id_soft_fina" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="qt-ZehDFdgtNPtdeyibi-26" value="id_soft_fina" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qt-ZehDFdgtNPtdeyibi-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qt-ZehDFdgtNPtdeyibi-26" target="O8r9pUgarycGLl7nJGWu-3">
